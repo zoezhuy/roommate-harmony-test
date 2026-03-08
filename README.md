@@ -2,7 +2,7 @@
 
 **HCI / UX｜可解释评分系统｜Persona 映射｜前端交互原型**
 
-![Roommate Harmony Test Cover](./assets/roommate-cover.png)
+![Cover](./images/roommate-cover.png)
 
 ## 项目简介
 Roommate Harmony Test 是一个围绕“室友匹配”场景设计的 AI 交互产品原型，目标是帮助用户在合住前更早识别潜在生活摩擦点，并把原本难以启齿的现实问题，转化为更容易开始的结构化对话。
@@ -42,17 +42,18 @@ Roommate Harmony Test 是一个围绕“室友匹配”场景设计的 AI 交互
 
 
 ### 问卷流程
-![Quiz](./assets/roommate-quiz.png)
+![Quiz](./images/roommate-quiz.png)
+
 
 ### Persona 展示
-![Persona](./assets/roommate-persona.png)
+![Persona](./images/roommate-persona.png)
 
 ### 可解释评分系统
-![Scoring](./assets/roommate-scoring.png)
-![Scoring](./assets/roommate-scoring2.png)
+![Scoring](./images/roommate-scoring.png)
+![Scoring](./images/roommate-scoring2.png)
 
 ### 结果页
-![Results](./assets/roommate-results.png)
+![Results](./images/roommate-results.png)
 
 ## 技术与方法
 - **产品设计**：用户流程设计、信息架构、结果页策略
