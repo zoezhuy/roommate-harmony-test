@@ -40,8 +40,6 @@ Roommate Harmony Test 是一个围绕“室友匹配”场景设计的 AI 交互
 
 ## 页面展示
 
-### 首页
-![Home](./assets/roommate-home.png)
 
 ### 问卷流程
 ![Quiz](./assets/roommate-quiz.png)
@@ -51,6 +49,7 @@ Roommate Harmony Test 是一个围绕“室友匹配”场景设计的 AI 交互
 
 ### 可解释评分系统
 ![Scoring](./assets/roommate-scoring.png)
+![Scoring](./assets/roommate-scoring2.png)
 
 ### 结果页
 ![Results](./assets/roommate-results.png)
