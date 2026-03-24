@@ -2,6 +2,8 @@
 
 **HCI / UX｜可解释评分系统｜Persona 映射｜前端交互原型**
 
+🔗 Live Demo / 立即体验：https://roomate.figma.site
+
 ![Cover](./images/roommate-cover.png)
 
 ## 项目速览
@@ -77,5 +79,3 @@ Roommate Harmony Test 是一个围绕“室友匹配”场景设计的 AI 交互
 ## 项目定位
 这**不是**一个娱乐化性格测试，而是一个围绕 **人机交互、可解释评分与行为差异识别** 设计的 AI 交互产品原型。
 
-## 原型代码
-前端交互原型见 [prototype](./prototype)
